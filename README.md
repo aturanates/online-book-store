@@ -76,8 +76,8 @@ graph TD
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/online-bookstore-microservices.git
-cd online-bookstore-microservices
+git clone https://github.com/aturanates/online-book-store.git
+cd online-book-store
 ```
 
 2. Start the infrastructure services using Docker Compose:
@@ -203,13 +203,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📞 Contact
 
-- Project Maintainer: [Your Name](mailto:your.email@example.com)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- Project Maintainer: [Turan Ates](mailto:aturanatess@gmail.com)
+- Portfolio: [Link](https://aturanates.vercel.app/)
+- LinkedIn: [Turan Ates](https://linkedin.com/in/aturanates)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
